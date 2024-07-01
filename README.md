@@ -1,3 +1,5 @@
+LuxCraft-Decor
+
 This website showcases the products and services offered by LuxCraft decor, a company specializing in home decor solutions. Getting Started:
 
 Prerequisites:
